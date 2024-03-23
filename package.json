@@ -6,12 +6,12 @@
 	"description": "remark plugin to support GitHub-style alerts",
 	"author": "Daiki Urata",
 	"license": "MIT",
-	"homepage": "https://github.com/7nohe/remark-github-alerts#readme",
+	"homepage": "https://github.com/7nohe/remark-alerts#readme",
 	"repository": {
 		"type": "git",
-		"url": "git+https://github.com/7nohe/remark-github-alerts.git"
+		"url": "git+https://github.com/7nohe/remark-alerts.git"
 	},
-	"bugs": "https://github.com/7nohe/remark-github-alerts/issues",
+	"bugs": "https://github.com/7nohe/remark-alerts/issues",
 	"keywords": [
 		"remark",
 		"remark-plugin",
